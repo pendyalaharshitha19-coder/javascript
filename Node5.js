@@ -7,4 +7,3 @@ let pan=true;
  }else{
     console.log("you cannot open account in our bank");
  }
- 
